@@ -1,2 +1,2 @@
-variable='hello world'
-alert(variable)
+variable='hello world';
+alert(variable);
